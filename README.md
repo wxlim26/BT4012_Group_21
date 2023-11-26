@@ -30,7 +30,7 @@ Our dataset used was obtained from Kaggle (Reddy, 2021) and can be found here: h
 - Contains the code used for the training and evaluation for Random Forest Model
 5. GradientBoosting.ipynb
 - Contains the code used for the training and evaluation for Gradient Boosting Models
-6. Neural_Networks_.ipynb
+6. Neural_Networks.ipynb
 - Contains the code used for the training and evaluation for Neural Network Model
 
 
