@@ -13,6 +13,13 @@ Car insurance companies may choose to raise premiums for all policyholders as a 
 Our dataset used was obtained from Kaggle (Reddy, 2021) and can be found here: https://www.kaggle.com/datasets/surekharamireddy/fraudulent-claim-on-cars-physical-damage 
 
 ## Files
+0. data/dataset.csv
+- Full dataset consisting of all 25 features
+0. data/test.csv
+- Full test dataset after train test split
+0. data/train.csv
+- Full train dataset after train test split
+
 1. Preprocessing_all_features_23nov.ipynb
 - Contains the code for exploratory data analysis as well as preprocessing steps taken to sanitize and convert the datasets into usable formats.
 2. Logistic_Regression.ipynb
