@@ -20,7 +20,7 @@ Our dataset used was obtained from Kaggle (Reddy, 2021) and can be found here: h
 0. data/train.csv
 - Full train dataset after train test split
 
-1. Preprocessing_all_features_23nov.ipynb
+1. Preprocessing_all_features_26nov.ipynb
 - Contains the code for exploratory data analysis as well as preprocessing steps taken to sanitize and convert the datasets into usable formats.
 2. Logistic_Regression.ipynb
 - Contains the code used for the training and evaluation for logistic regression Model
